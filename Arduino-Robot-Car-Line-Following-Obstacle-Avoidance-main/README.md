@@ -19,7 +19,7 @@ For this project has been used the NewPing library, since it has pre built funct
 
 ### Examples of usage
 
-Here some videos of usage, mp4 videos of some example are available in the [Resource](https://github.com/salvatore-arienzo/Arduino-Robot-Car-Line-Following-Obstacle-Avoidance/tree/main/Resources) folder.
+Here some videos of usage, mp4 videos of some example are available in the [Resource](https://github.com/ConnectRajiv/LineFollowingRobot/tree/main/Arduino-Robot-Car-Line-Following-Obstacle-Avoidance-main/Resources) folder.
 
 ##### Simple line following: 
 
